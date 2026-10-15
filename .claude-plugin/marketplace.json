@@ -1,11 +1,11 @@
 {
-  "name": "mekko-digital",
+  "name": "knighton-digital",
   "owner": {
-    "name": "Mekko Digital",
-    "url": "https://github.com/Mekko-Digital"
+    "name": "Knighton Digital",
+    "url": "https://github.com/DigitalByKnight"
   },
   "metadata": {
-    "description": "Skills and tools from Mekko Digital.",
+    "description": "Knighton Digital's maintained fork of Mekko Digital's Bricks Builder skills (MIT).",
     "version": "1.0.0"
   },
   "plugins": [

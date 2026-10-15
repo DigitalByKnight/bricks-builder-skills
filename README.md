@@ -1,5 +1,7 @@
 # Bricks Builder Skill for Claude Code
 
+> **Knighton Digital fork.** Maintained by Knighton Digital from [Mekko Digital's original](https://github.com/Mekko-Digital/bricks-builder-skills) (MIT). Installed from the `knighton-digital` marketplace: `bricks-builder-skills@knighton-digital`. Fork decision: Knighton-System ADR-0016.
+
 A [Claude Code skill](https://docs.claude.com/en/docs/claude-code/skills) that gives Claude deep, verified knowledge of the [Bricks Builder](https://bricksbuilder.io) WordPress theme. With this skill installed, Claude can read and write Bricks page JSON, register custom elements, configure theme styles and breakpoints, build forms and query loops, wire interactions and popups -- all using **the exact control keys, value shapes, and naming conventions Bricks actually uses in the database**.
 
 > **Why it exists.** LLMs hallucinate Bricks control keys (`_bgColor` instead of `_background`, `padding` instead of `_padding`, made-up animation names). This skill grounds every recommendation in the actual Bricks source, so you stop debugging settings that don't exist.

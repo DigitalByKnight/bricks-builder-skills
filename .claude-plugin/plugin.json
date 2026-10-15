@@ -6,8 +6,8 @@
     "name": "Mekko Digital",
     "url": "https://mekkodigital.com"
   },
-  "homepage": "https://github.com/Mekko-Digital/bricks-builder-skills",
-  "repository": "https://github.com/Mekko-Digital/bricks-builder-skills",
+  "homepage": "https://github.com/DigitalByKnight/bricks-builder-skills",
+  "repository": "https://github.com/DigitalByKnight/bricks-builder-skills",
   "license": "MIT",
   "keywords": ["bricks", "bricks-builder", "wordpress", "page-builder", "skill"]
 }
