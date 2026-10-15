@@ -1,6 +1,6 @@
 ---
 name: bricks-builder-skills
-description: Build, edit, and audit pages, templates, popups, and custom elements for the Bricks Builder WordPress theme (installed at {template_dir}). Use when the task involves Bricks elements, JSON page data (`_bricks_page_content_2`, `_bricks_page_header_2`, `_bricks_page_footer_2`), Bricks templates (`bricks_template` post type), child-theme custom elements at {stylesheet_dir}/elements/, theme styles, global classes/variables, breakpoints, forms, query loops, conditions, dynamic-data tags, interactions/animations, or popups. Triggers: "Bricks", "brxe-", "page builder element", "container/section/heading element", "_bricks_", "bricks_template", "register_element", or any code touching the JSON shapes documented here.
+description: 'Build, edit, and audit pages, templates, popups, and custom elements for the Bricks Builder WordPress theme (installed at {template_dir}). Use when the task involves Bricks elements, JSON page data (`_bricks_page_content_2`, `_bricks_page_header_2`, `_bricks_page_footer_2`), Bricks templates (`bricks_template` post type), child-theme custom elements at {stylesheet_dir}/elements/, theme styles, global classes/variables, breakpoints, forms, query loops, conditions, dynamic-data tags, interactions/animations, or popups. Triggers: "Bricks", "brxe-", "page builder element", "container/section/heading element", "_bricks_", "bricks_template", "register_element", or any code touching the JSON shapes documented here.'
 ---
 
 # Bricks Builder -- Authoritative Skill
